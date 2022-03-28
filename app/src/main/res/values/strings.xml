@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CarsRecyclerView</string>
+    <string-array name="Models">
+        <item>bmwX1</item>
+        <item>bmwX3</item>
+        <item>bmwX4</item>
+        <item>bmwX5</item>
+        <item>BmwM3</item>
+        <item>BmwM4</item>
+        <item>BmwM5</item>
+        <item>BmwM7</item>
+        <item>BmwM8</item>
+    </string-array>
+    <string-array name="Description">
+        <item>Milestones ahead: the new BMW X1 has come to set standards. Its eagerness for action is shown above all in its athletic design. At first glance, it is an X model through and through: its exterior is characterised by short overhangs and a long wheelbase typical of a SAV (Sports Activity Vehicle). It makes its ambitions clear with convincing dynamics and agility. And thanks to high versatility and flexibility in combination with innovative technologies, it ensures maximum comfort on every meter of the ride.</item>
+        <item>The exquisite feel of luxury finally meets the exhilarating zeal of performance. With interiors so grand, features so advanced and performance so powerful, the new BMW X3 is ready to serve an experience that’s nothing like you’ve felt before.</item>
+        <item>Conquer the road with the new BMW X4 Black Shadow Edition. Loaded with TwinPower Turbo engines and boasting a wider stance for superior handling, plus a raft of enhanced design elements such as the new kidney grille design, this Sports Activity Coupé (SAC) has plenty of performance and attitude.</item>
+        <item>The BMW X5 is designed to let you boss every road with unmatched comfort and in extreme ease. Whether you are seeking the uncharted or looking to raise your driving pleasure many notches higher. On the outside, a sculpted exterior with imposing dimensions will make your presence felt in the city, on the highway and beyond. Equipped with new technologies for more safety and maximum driving dynamics on every surface, the BMW X5 knows where it’s going. And how to get there first.</item>
+        <item>The BMW M340i xDrive Sedan combines the traditionally sporty genes of the BMW 3 Series Sedan with exclusive motorsport DNA. The result: a car with powerful BMW TwinPower Turbo engines, suspension components from BMW M GmbH tuned down to the finest detail and excitingly sporty design that brings the love of motor racing onto the road with every single metre.</item>
+        <item>The all-new BMW M4 Competition Coupé  with M xDrive offers a fascinating combination of aesthetics, character and typical M athleticism. The all-new BMW M4 Competition Coupé with M xDrive has an impressive 510 hp and 650 Nm of torque. Equipped with a high-performance BMW M TwinPower Turbo power unit, 8-speed M Steptronic with Drivelogic, all-wheel drive M xDrive, Active M Differential and numerous technologies derived from motorsport, it guarantees maximum driving dynamics – both in everyday use and on the race track. The rear-wheel drive permits a very dynamic driving style and makes the vehicle a puristic thoroughbred athlete.</item>
+        <item>The new BMW M5 Competition combines typical M sportiness with the comfort and elegance of a business saloon in an outstanding manner. Boasting a maximum output of 625 hp (460 kW) and suspension set-up optimised for performance, the BMW M5 Competition with M xDrive exceeds the highest expectations. The high-performance sports saloon underlines this visually with numerous design features in black high-gloss. In addition to the M xDrive designed for maximum traction and dynamics, The new BMW M5 Competition has a suspension that meets every demand for sporty ride comfort over long distances.</item>
+        <item>Featuring new exquisite design details, the finest materials and powerful innovations, the BMW 7 Series Saloon, delivers a new echelon of driving pleasure. Imagined, designed and crafted for individuals who value every moment, discover an experience inspired by those who drive the world.</item>
+        <item>When dynamics meet luxury, the result is something unique: the BMW 8 Series Gran Coupé is a breathtaking four-door sports car with a generous sensation of space. Its design is aesthetics in its most thrilling form. It establishes a completely new design language for luxurious sports cars, conveying unbridled power and impressive agility. The BMW 8 Series Gran Coupé keeps this uncompromisingly sporty promise on every metre of asphalt. As soon as the spirited engine sends the rev counter soaring to new heights, passenger</item>
+    </string-array>
+</resources>
